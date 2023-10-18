@@ -1,5 +1,6 @@
 # My Cybersecurity Write-ups
-\n
-"🔐 Cybersecurity Final Year Student \n
-In this regularly updated repo, I post detailed writeups about my journey through HackTheBox & TryHackMe.
+
+🔐 Cybersecurity Final Year Student 
+
+In this regularly updated repository, I post detailed writeups about my journey through HackTheBox & TryHackMe.
 💻🛡️ 
