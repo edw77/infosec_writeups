@@ -1,2 +1,5 @@
-# infosec_writeups
-A regularly updated repo where I store all the writeups from my personal Cybersecurity activities (like boxes on HackTheBox or rooms in TryHackMe)
+# My Cybersecurity Write-ups
+
+"🔐 Cybersecurity Final Year Student
+In this regularly updated repo, I post detailed writeups about my journey through HackTheBox & TryHackMe.
+💻🛡️ 
